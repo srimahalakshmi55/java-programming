@@ -12,5 +12,6 @@ public class reverse {
 		n=n/10;   //  "/" gives the quotient
 	}
 	System.out.println("reverse of the number is:"+rev);
+		sc.close();
 }
 }
