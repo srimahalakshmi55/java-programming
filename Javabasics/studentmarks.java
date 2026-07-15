@@ -16,8 +16,8 @@ public class studentmarks {
 			avg=avg+(arr[i]);
 		}
 		avg=avg/n;
-
 		System.out.println("Average is:"+avg);
+		sc.close();
 		}
 
 }
